@@ -7,3 +7,7 @@ p {
    padding-right: 5%;
    width: auto;
 }
+
+li {
+   font-size: 18px;
+}
